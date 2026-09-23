@@ -17,8 +17,7 @@ Run the containerized application locally with zero environment configuration:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/FatimaSaadat17/SONY_closingprice_prediction.git](https://github.com/FatimaSaadat17/SONY_closingprice_prediction.git)
-cd SONY_closingprice_prediction
+git clone https://github.com/FatimaSaadat17/SONY_closingprice_prediction.git
 
 # 2. Build the Docker image
 docker build -t gradio-app .
